@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s/3yjs4GPz8=",
+  "dgSpecHash": "e5tdSp6bCzU=",
   "success": true,
   "projectFilePath": "D:\\programming\\c#\\Labs\\UmbrellaEditor\\UmbrellaEditor\\UmbrellaEditor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Musashi\\.nuget\\packages\\newtonsoft.json\\13.0.5-beta1\\newtonsoft.json.13.0.5-beta1.nupkg.sha512"
+  ],
   "logs": []
 }

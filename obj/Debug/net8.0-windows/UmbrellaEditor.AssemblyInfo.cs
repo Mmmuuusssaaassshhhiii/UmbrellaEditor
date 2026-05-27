@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UmbrellaEditor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aba0f974b575e50ff1b0e15bf72544c962277ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("UmbrellaEditor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UmbrellaEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,9 +9,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Compile Update="UI\Form1.cs">
+      <Compile Update="UI\MainForm.cs">
         <SubType>Form</SubType>
       </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.5-beta1" />
     </ItemGroup>
 
 </Project>

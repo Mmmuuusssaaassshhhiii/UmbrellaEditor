@@ -1,0 +1,47 @@
+{
+  "$type": "System.Collections.Generic.List`1[[UmbrellaCore.Entities.UmbrellaEntity, UmbrellaEditor]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "UmbrellaCore.Entities.VirusSample, UmbrellaEditor",
+      "DangerLevel": 15,
+      "Id": "89f962d8-a13d-4474-bab9-cf847078b282",
+      "Name": "T-Virus"
+    },
+    {
+      "$type": "UmbrellaCore.Entities.VirusSample, UmbrellaEditor",
+      "DangerLevel": 20,
+      "Id": "03722ccb-df29-4374-8f27-e2ecf15c750e",
+      "Name": "G-Virus"
+    },
+    {
+      "$type": "UmbrellaCore.Entities.Mutant, UmbrellaEditor",
+      "Aggression": 100.0,
+      "Id": "6d08d03d-b6ba-4332-8e34-adfcdcd5c2de",
+      "Name": "Tyrant"
+    },
+    {
+      "$type": "UmbrellaCore.Entities.Scientist, UmbrellaEditor",
+      "Rank": "7",
+      "Id": "7d43542a-f461-4cb6-ad8e-a6a52e601af2",
+      "Name": "William Birkin"
+    },
+    {
+      "$type": "UmbrellaCore.Entities.SecurityUnit, UmbrellaEditor",
+      "Weapon": "M4",
+      "Id": "b069a7ad-4e14-4af8-8d34-de349f834acc",
+      "Name": "HUNK"
+    },
+    {
+      "$type": "UmbrellaCore.Entities.Experiment, UmbrellaEditor",
+      "IsSuccessful": true,
+      "Id": "0dbd827a-3922-4d0d-9f52-81ef508ba1df",
+      "Name": "T-Virus study"
+    },
+    {
+      "$type": "UmbrellaCore.Entities.BioWeapon, UmbrellaEditor",
+      "KillRadius": 1000,
+      "Id": "c7fabae1-a9da-435d-98ad-4ac2be1858df",
+      "Name": "Nemesis"
+    }
+  ]
+}
